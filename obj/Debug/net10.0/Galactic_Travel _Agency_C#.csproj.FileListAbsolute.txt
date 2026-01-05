@@ -1,0 +1,14 @@
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/bin/Debug/net10.0/Galactic_Travel _Agency_C#
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/bin/Debug/net10.0/Galactic_Travel _Agency_C#.deps.json
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/bin/Debug/net10.0/Galactic_Travel _Agency_C#.runtimeconfig.json
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/bin/Debug/net10.0/Galactic_Travel _Agency_C#.dll
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/bin/Debug/net10.0/Galactic_Travel _Agency_C#.pdb
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.AssemblyInfoInputs.cache
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.AssemblyInfo.cs
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.csproj.CoreCompileInputs.cache
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.dll
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/refint/Galactic_Travel _Agency_C#.dll
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.pdb
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/Galactic_Travel _Agency_C#.genruntimeconfig.cache
+/Users/aarondixson/Downloads/Galactic_Travel _Agency_C#/obj/Debug/net10.0/ref/Galactic_Travel _Agency_C#.dll
