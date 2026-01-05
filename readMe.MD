@@ -19,13 +19,10 @@ It is intended as a learning example for beginners in C#.
    dotnet --version
    ```
 
-2.	Open the project folder in VS Code:
-    code .
-
-3.	Build and run the program using:
+2.	Build and run the program using:
     dotnet run
 
-4.	Expected output:
+3.	Expected output:
     Zara
     Mars
     29
